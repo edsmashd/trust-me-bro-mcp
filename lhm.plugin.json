@@ -1,0 +1,12 @@
+{
+  "identifier": "trust-me-bro",
+  "name": "Trust Me Bro",
+  "version": "1.30.0",
+  "author": "Ashyedra",
+  "authorUrl": "https://github.com/edsmashd",
+  "description": "Fact-check receipts: search published claim verdicts with cited evidence, or verify a new claim.",
+  "homepage": "https://trustmebro.to",
+  "icon": "https://trustmebro.to/apple-touch-icon.png",
+  "cloudEndpoint": "https://trustmebro.to/mcp",
+  "category": "productivity"
+}

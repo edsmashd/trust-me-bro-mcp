@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "to.trustmebro/trust-me-bro",
+  "title": "Trust Me Bro",
+  "description": "Fact-check receipts: search published claim verdicts with cited evidence, or verify a new claim.",
+  "version": "1.30.0",
+  "websiteUrl": "https://trustmebro.to",
+  "icons": [
+    {
+      "src": "https://trustmebro.to/apple-touch-icon.png",
+      "mimeType": "image/png",
+      "sizes": ["180x180"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://trustmebro.to/mcp"
+    }
+  ]
+}
